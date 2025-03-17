@@ -20,13 +20,15 @@ Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el ju
 4. Sigue intentando hasta encontrar el número correcto.
 5. Una vez acertado, podrás iniciar un nuevo juego.
 
-## 📂 Estructura del Proyecto
-📂 JuegoNumeroSecreto
-│── 📜 index.html # Estructura del juego
-│── 📜 style.css # Estilos del juego
-│── 📜 app.js # Lógica del juego
-│── 📂 img # Imágenes utilizadas
-│── 📜 README.md # Documentación del proyecto
+## 📂 Estructura del Proyecto  
+```md
+📂 JuegoNumeroSecreto  
+│── 📜 index.html    # Estructura del juego  
+│── 📜 style.css     # Estilos del juego  
+│── 📜 app.js        # Lógica del juego  
+│── 📂 img           # Imágenes utilizadas  
+│── 📜 README.md     # Documentación del proyecto
+```
 
 ## 🎮 Vista Previa
 Puedes ver y probar el juego en tu navegador simplemente abriendo `index.html`.
