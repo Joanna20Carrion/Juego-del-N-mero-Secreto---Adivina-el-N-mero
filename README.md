@@ -20,6 +20,10 @@ Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el ju
 4. Sigue intentando hasta encontrar el número correcto.
 5. Una vez acertado, podrás iniciar un nuevo juego.
 
+## 🌐 Jugar Online  
+¡Prueba el juego ahora mismo desde tu navegador!  
+👉 [**Juego del Número Secreto - Deployment**](https://joanna20carrion.github.io/Juego-del-Num-Secreto-App/)  
+
 ## 📂 Estructura del Proyecto  
 ```md
 📂 JuegoNumeroSecreto  
