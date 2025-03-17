@@ -13,10 +13,6 @@ Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el ju
 - **CSS**: Estilos para una mejor experiencia visual.
 - **JavaScript**: Lógica del juego y manipulación del DOM.
 
-## 📷 Imágenes de Referencia
-<img src="bg.png" width="400"> <img src="code.png" width="400">
-<img src="ia.png" width="400"> <img src="Ruido.png" width="400">
-
 ## 🚀 Cómo Jugar
 1. Ingresa un número entre 1 y 10.
 2. Presiona "Intentar".
@@ -25,7 +21,12 @@ Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el ju
 5. Una vez acertado, podrás iniciar un nuevo juego.
 
 ## 📂 Estructura del Proyecto
-📂 JuegoNumeroSecreto │── 📜 index.html # Estructura del juego │── 📜 style.css # Estilos del juego │── 📜 app.js # Lógica del juego │── 📂 img # Imágenes utilizadas │── 📜 README.md # Documentación del proyecto
+📂 Juego Numero Secreto 
+  │── 📜 index.html # Estructura del juego 
+  │── 📜 style.css # Estilos del juego 
+  │── 📜 app.js # Lógica del juego 
+  │── 📂 img # Imágenes utilizadas 
+  │── 📜 README.md # Documentación del proyecto
 
 ## 🎮 Vista Previa
 Puedes ver y probar el juego en tu navegador simplemente abriendo `index.html`.
