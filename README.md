@@ -22,7 +22,7 @@ Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el ju
 
 ## 🌐 Jugar Online  
 ¡Prueba el juego ahora mismo desde tu navegador!  
-👉 [**Juego del Número Secreto - Deployment**](https://joanna20carrion.github.io/Juego-del-Num-Secreto-App/)  
+👉 [**Juego del Número Secreto - Deployment**](https://joanna20carrion.github.io/Juego-del-Numero-Secreto-App/)  
 
 ## 📂 Estructura del Proyecto  
 ```md
