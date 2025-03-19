@@ -1,4 +1,4 @@
-# Juego del Número Secreto 🎲🔢
+# 🎲 Juego del Número Secreto 🔢
 
 Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el jugador debe adivinar un número secreto generado aleatoriamente.
 
