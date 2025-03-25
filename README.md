@@ -4,7 +4,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carri%C3%B3n%20P%C3%A9rez-blue?style=flat&logo=linkedin)
 
 Este es un sencillo pero divertido juego de adivinanza en JavaScript donde el jugador debe adivinar un número secreto generado aleatoriamente.
 
@@ -47,7 +46,7 @@ Puedes ver y probar el juego en tu navegador simplemente abriendo `index.html`.
 **Joanna Alexandra Carrión Pérez**  
 🎓 Bachiller de Ingeniería Electrónica  
 💡 Apasionada por la Ciencia de Datos y la Inteligencia Artificial  
-🔗 [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
 ## 📩 Contacto
 Para cualquier duda o sugerencia, contáctame a través de **joannacarrion14@gmail.com**.
